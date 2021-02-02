@@ -8,3 +8,7 @@ The popular MNIST dataset is used for the digit recognition task using different
 | KNN (k=3)  | 99.97  |
 | SVM (poly kernel)  | 98.38  |
 | FFNN | 97.98 |
+
+# TODO
+
+Use CNN.
