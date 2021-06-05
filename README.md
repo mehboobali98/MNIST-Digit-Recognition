@@ -10,21 +10,21 @@ The popular MNIST dataset is used for the digit recognition task using different
 | SVM (poly kernel) | 98.38    |
 | FFNN              | 97.98    |
 
-# To Do
-
-Use Convolutional Neural Networks (CNN).
-
 <pre>
 📦MNIST-Digit-Recognition
 ┣ 📂Documents
- ┃ ┗ 📜Detailed Report.pdf
- ┣ 📂Notebooks
- ┃ ┣ 📜MNIST using FFNN.ipynb
- ┃ ┣ 📜MNIST Using KNN.ipynb
- ┃ ┗ 📜MNIST Using SVM and HOG.ipynb
- ┣ 📂Trained models
- ┃ ┣ 📜linearSVM.pkl
- ┃ ┣ 📜nonlinear-Poly.pkl
- ┃ ┗ 📜nonlinear-Rbf.pkl
- ┗ 📜README.md
+┃ ┗ 📜Detailed Report.pdf
+┣ 📂Notebooks
+┃ ┣ 📜MNIST using FFNN.ipynb
+┃ ┣ 📜MNIST Using KNN.ipynb
+┃ ┗ 📜MNIST Using SVM and HOG.ipynb
+┣ 📂Trained models
+┃ ┣ 📜linearSVM.pkl
+┃ ┣ 📜nonlinear-Poly.pkl
+┃ ┗ 📜nonlinear-Rbf.pkl
+┗ 📜README.md
  </pre>
+
+# To Do
+
+Use Convolutional Neural Networks (CNN).
