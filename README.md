@@ -27,6 +27,7 @@ The popular MNIST dataset is used for the digit recognition task using different
 ┗ 📜README.md
  </pre>
 
-# To Do
+# Future Work
 
-Use Convolutional Neural Networks (CNN).
+- Use Convolutional Neural Networks (CNN) for the classification task.
+- Read digits from images using OpenCV.
